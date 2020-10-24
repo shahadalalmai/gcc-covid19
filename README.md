@@ -4,5 +4,5 @@ This project if a front-end application made with React.js and Recharts.js libra
 
 ## Screenshot
 
-<img src="covidksa/src/ScreenShot.png" width="700" height="400" />
+<img src="https://github.com/shahadalalmai/gcc-covid19/blob/master/src/ScreenShot.png" width="700" height="400" />
 
